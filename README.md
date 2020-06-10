@@ -8,6 +8,7 @@ _for EEA+CH+UK countries go [HERE](https://github.com/ct-report/summary)_
 Country | Status | App Details
 --------|--------|------------
 Australia | Government Official (COVIDSAFE) | https://github.com/ct-report/AU
+Bahrain | Government Official (BEAWARE BAHRAIN) | https://github.com/ct-report/BH
 Canada | Not endorsed yet (CovidShield - #GAEN based) | https://github.com/ct-report/CA
 India | Government Official (AAROGYA SETU) | https://github.com/ct-report/IN
 Iran | Government Official (MASK) | https://github.com/ct-report/IR
