@@ -5,7 +5,7 @@ _for Europe - EEA+CH+UK countries go [HERE](https://github.com/ct-report/summary
 
 **June 13, 2020 - snapshot** (still working on it)
 
-- **EMEA (Europe w/o EEA+CH+UK + Middle-East + Africa)**
+- **EMEA (Europe excluding EEA+CH+UK - Middle-East - Africa)**
 
 Country | Status | App Details
 --------|--------|------------
