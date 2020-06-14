@@ -55,7 +55,7 @@ State | Status | App Details
 ------|--------|------------
 Alabama | Evaluating GAEN solution | n/a
 North Dakota | Official (CARE19) + Evaluating GAEN new solution | https://github.com/ct-report/USND
-Rhode Island | Official (CRUSH COVID RI) https://github.com/ct-report/USRI
+Rhode Island | Official (CRUSH COVID RI) | https://github.com/ct-report/USRI
 South Carolina | Evaluating GAEN solution | n/a
 Washington | In development (CovidSafe) | https://github.com/ct-report/USWA
 South Dakota | Official (CARE19) | https://github.com/ct-report/USSD
