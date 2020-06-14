@@ -39,7 +39,7 @@ Vietnam | Government Official (BLUEZONE) | https://github.com/ct-report/VN
 
 -------------------------------------
 
-- **AMER (North + Central + South America)**
+- **AMER (North w/o USA + Central + South America)**
 
 Country | Status | App Details
 --------|--------|------------
@@ -54,7 +54,7 @@ Mexico | Government Official (COVIDRADAR) | https://github.com/ct-report/MX
 State | Status | App Details
 ------|--------|------------
 Alabama | Evaluating GAEN solution | n/a
-North Dakota | Official (CARE19) + Evaluating GAEN new solution | https://github.com/ct-report/USND
+North Dakota | Official (CARE19) + Evaluating GAEN solution | https://github.com/ct-report/USND
 Rhode Island | Official (CRUSH COVID RI) | https://github.com/ct-report/USRI
 South Carolina | Evaluating GAEN solution | n/a
 Washington | In development (CovidSafe) | https://github.com/ct-report/USWA
