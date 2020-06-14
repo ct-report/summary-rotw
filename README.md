@@ -55,4 +55,4 @@ State | Status | App Details
 ------|--------|------------
 North Dakota | Official (CARE19) | https://github.com/ct-report/USND
 South Dakota | Official (CARE19) | https://github.com/ct-report/USSD
-Utah | Official (HEALTH TOGETHER) | https://github.com/ct-report/USUT
+Utah | Official (HEALTHY TOGETHER) | https://github.com/ct-report/USUT
